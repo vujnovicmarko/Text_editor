@@ -8,6 +8,6 @@ U izradi su korišteni sljedeći oblikovni obrasci:
 - **Promatrač** (*Observer*)
 - **Naredba** (*Command*)
 - **Jedinstveni objekt** (*Singleton*)
-- **Generička tvornica** (*Generic Factory*)
+- **Tvornica** (*Factory*)
 
 Tekst zadatka dostupan je na [ovom linku](https://www.zemris.fer.hr/~ssegvic/ooup/ooup3lab.shtml).
